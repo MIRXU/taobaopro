@@ -1,0 +1,4 @@
+1.命令行创建命令react-native init project,
+2.react-native start开启项目
+3.react-native run-android(ios)
+
